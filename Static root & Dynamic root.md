@@ -6,6 +6,7 @@
 [II. Dynamic root](#dynamicroot)
 
 <a name="staticroot"></a>
+I. Static root
 1. Static root
 - Khái niệm:
 Static root là khai báo thủ công các tuyến đường trên bảng định tuyến
@@ -21,9 +22,11 @@ Nexthop AD=1
 Exit AD=0
 => Chỉnh AD dự phòng trong định tuyến động
 
-<a name="dynamicroot"><a/a>
 2. Default root
 - Khái niệm
 Default root là 1 dạng đặc biệt của static root. Default root thông thường được sử dụng trong mạng LAN nhằm đi ra Internet, bởi vì Internet vó rất nhiều ROUTE và Router không thể học hết được tất cả các ROUTE đó nên phải cần 1 Default root để Router biết chuyển gói tín có Destination không có trong bảng định tuyến của nó đi đâu (Ở đây sẽ đi ra Internet)
 - Commmand
 iproute 0.0.0.0 0.0.0.0 nexthop/exitinterface
+
+<a name="dynamicroot"></a>
+II. Dynamic root
