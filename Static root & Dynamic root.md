@@ -5,7 +5,7 @@
 
 [II. Dynamic root](#dynamicroot)
 
-<a name="staticroot></a>
+<a name="staticroot"></a>
 1. Static root
 - Khái niệm:
 Static root là khai báo thủ công các tuyến đường trên bảng định tuyến
