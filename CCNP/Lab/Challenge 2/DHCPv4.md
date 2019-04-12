@@ -27,6 +27,8 @@ PC1(config)#int e0/0
 PC1(config-if)#ip address dhcp
 ```
 - **Step 2**
+
+***Config on Core1***
 ```sh
 Core1>en
 Core1#
