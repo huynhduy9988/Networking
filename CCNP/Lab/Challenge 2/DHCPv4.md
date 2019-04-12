@@ -1,6 +1,6 @@
 # I. Config DHCPv4
 ## 1. Topology
-![](https://github.com/quangln94/CCNA/blob/master/CCNP/Lab/Challenge%202/Topology/DHCPv5.php.png)
+![](https://github.com/quangln94/CCNA/blob/master/CCNP/Lab/Challenge%202/Topology/DHCPv4.png)
 ## 2. Config
 - **Step 1**
 
