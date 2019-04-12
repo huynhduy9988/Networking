@@ -3,6 +3,7 @@
 ![](https://github.com/quangln94/Networking/blob/master/CCNP/SWITCH/Lab/Topology/EtherChannel.png)
 ## 2. Configure
 -**Step 1**
+
 ***Config on DSW1***
 ```sh
 DSW1>en
@@ -20,6 +21,7 @@ DSW2(config-if-range)#channel-group 1 mode active
 DSW2(config-if-range)#exit
 ```
 -**Step 2**
+
 ***Config on DSW1***
 ```sh
 DSW1>en
@@ -37,6 +39,7 @@ SW1(config)#int range e0/2-3
 SW1(config-if-range)#channel-group 2 mode active
 ```
 -**Step 3**
+
 ***Config on DSW2***
 ```sh
 DSW2>en
