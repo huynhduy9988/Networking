@@ -20,6 +20,6 @@ Command List
 
 |Command|Description|
 |-------|-----------|
-|access-list *access_list_number* {permit/deny} *ip_address wildcard_mask*|Creates|
+|**access-list** *access_list_number* **{permit/deny}** *ip_address wildcard_mask*|Creates|
 
 ## 3. Configure
