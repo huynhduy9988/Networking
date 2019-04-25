@@ -20,6 +20,7 @@ Command List
 
 |Command|Description|
 |-------|-----------|
-|**access-list** *access_list_number* **{permit/deny}** *ip_address wildcard_mask*|Creates|
+|**access-list** *access_list_number* **{permit/deny}** *ip_address wildcard_mask*|Creates an access list rule. Use command in global configuration mode|
+|**Clock summer-time** *zone* **recurring**|Configures the|
 
 ## 3. Configure
