@@ -14,4 +14,5 @@ Public NTP Server IP Address
 |209.165.201.133|-|
 |209.165.201.222|-|
 |209.165.201.233|Preferred|
+
 ## 3. Configure
