@@ -15,4 +15,9 @@ Public NTP Server IP Address:
 |209.165.201.133|-|
 |209.165.201.222|-|
 |209.165.201.233|Preferred|
+
+Command List
+|Command|Description|
+|-------|-----------|
+|access-list access_list_number {permit/deny} ip_address wildcard_mask|Creates|
 ## 3. Configure
